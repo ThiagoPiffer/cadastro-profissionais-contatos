@@ -17,8 +17,6 @@ Este é um projeto Java que implementa um sistema de cadastro de profissionais e
 - **JPA/Hibernate**: Para o mapeamento objeto-relacional e persistência de dados.
 - **JUnit**: Framework para testes unitários.
 
-**swagger**: http://localhost:8080/swagger-ui/index.html 
-
 ## Documentação da API
 
 A documentação da API, gerada pelo Swagger, pode ser acessada através da seguinte URL após iniciar a aplicação:
